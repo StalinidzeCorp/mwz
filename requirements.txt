@@ -1,0 +1,6 @@
+discord
+asyncio
+pillow
+requests
+pymongo
+typing
