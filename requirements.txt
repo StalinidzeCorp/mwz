@@ -4,3 +4,4 @@ pillow
 requests
 pymongo
 typing
+dnspython
